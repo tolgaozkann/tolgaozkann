@@ -35,4 +35,12 @@ I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolgaozkann&theme=dark&background=000000)](https://git.io/streak-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaozkann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
