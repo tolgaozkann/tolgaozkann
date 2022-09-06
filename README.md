@@ -44,6 +44,6 @@ I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolgaozkann&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
-[![radical][[radical_repo](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)]]
+[![radical](https://github-readme-stats.vercel.app/api?username=tolgaozkann&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)]
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaozkann&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
