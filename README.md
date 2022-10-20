@@ -46,6 +46,6 @@ I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlp
 </br>
 ![radical](https://github-readme-stats.vercel.app/api?username=tolgaozkann&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaozkann&layout=compact&theme=vision-friendly-da
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaozkann&layout=compact&theme=vision-friendly-da)
 
 ![snake gif](https://github.com/tolgaozkann/tolgaozkann/blob/output/github-contribution-grid-snake.svg)
