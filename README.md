@@ -45,4 +45,3 @@ I am a Computer Engineering Student <img src="https://media.giphy.com/media/WUlp
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolgaozkann&theme=dark&background=000000)]
 </br>
 
-![snake gif](https://github.com/tolgaozkann/tolgaozkann/blob/output/github-contribution-grid-snake.svg)
